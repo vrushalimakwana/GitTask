@@ -1,0 +1,10 @@
+*{
+    color: burlywood;
+}
+.header{
+    color: brown;
+    background-color: red;
+}
+.header:horizontal{
+    visibility: visible;
+}
